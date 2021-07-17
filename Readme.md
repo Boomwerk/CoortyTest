@@ -15,7 +15,7 @@
 ## IMG database 
 
 
-[img database](https://github.com/Boomwerk/CoortyTest/coorty.png)
+![img database](https://github.com/Boomwerk/CoortyTest/coorty.png)
 
 
 # Data
